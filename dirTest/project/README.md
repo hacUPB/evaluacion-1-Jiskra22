@@ -1,27 +1,7 @@
 
-In this directory, you should write the program `wcat.c` and compile it into
-the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
+EVALUACIÓN 1
 
-After doing so, you can run the tests from this directory by running the
-`test-wcat.sh` script. If all goes well, you will see:
-
-```sh
-prompt> ./test-wcat.sh
-test 1: passed
-test 2: passed
-test 3: passed
-test 4: passed
-test 5: passed
-test 6: passed
-test 7: passed
-prompt>
-```
-
-The `test-wcat.sh` script is just a wrapper for the `run-tests.sh` script in
-the `tester` directory of this repository. This program has a few options; see
-the relevant
-[README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
-for details.
+Estoy realizando una actividad evaluativa sobre los conocimientos basicos de Computacion, clone un repositorio a mi pc y luego edite el contenido del archivo wcat.c.
 
 
-
+![image text](![jinx-arcane-fanmade_3840x2160_xtrafondos com](https://user-images.githubusercontent.com/84602314/185657505-47336212-9641-41b8-b242-0b8acbfd19cc.jpg)
